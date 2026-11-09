@@ -1,0 +1,98 @@
+[{
+  "_id": {
+    "$oid": "6ac9ca419a519aff071fc120"
+  },
+  "id": 101,
+  "name": "Rani",
+  "Location": "YTL"
+},
+{
+  "_id": {
+    "$oid": "6ac9ca979a519aff071fc121"
+  },
+  "id": 102,
+  "name": "Om",
+  "Location": "YTL",
+  "contact": 9322533389
+},
+{
+  "_id": {
+    "$oid": "6ac9cb5e9a519aff071fc122"
+  },
+  "id": 102,
+  "name": "Om",
+  "Location": "YTL",
+  "contact": 9322533389
+},
+{
+  "_id": {
+    "$oid": "6ac9cb5e9a519aff071fc123"
+  },
+  "id": 103,
+  "name": "Shiv",
+  "Location": "Nagpur",
+  "contact": 1478523690
+},
+{
+  "_id": {
+    "$oid": "6ac9cb5e9a519aff071fc124"
+  },
+  "id": 104,
+  "name": "Simran",
+  "Location": "Amravati",
+  "contact": 7894561230
+},
+{
+  "_id": {
+    "$oid": "6ac9d0ed9a519aff071fc125"
+  },
+  "id": 105,
+  "name": "Vansh",
+  "Location": "Mumbai",
+  "contact": 9322533389
+},
+{
+  "_id": {
+    "$oid": "6ac9d0ed9a519aff071fc126"
+  },
+  "id": 105,
+  "name": "Sharwari",
+  "Location": "Pune",
+  "contact": 1478523690
+},
+{
+  "_id": {
+    "$oid": "6ac9d0ed9a519aff071fc127"
+  },
+  "id": 106,
+  "name": "Ram",
+  "Location": "Mumbai",
+  "contact": 7894561230
+},
+{
+  "_id": {
+    "$oid": "6ac9d1749a519aff071fc128"
+  },
+  "id": 109,
+  "name": "Varun",
+  "Location": "Mumbai",
+  "contact": 9322533389
+},
+{
+  "_id": {
+    "$oid": "6ac9d1749a519aff071fc129"
+  },
+  "id": 108,
+  "name": "Sanskruti",
+  "Location": "Pune",
+  "contact": 1478523690
+},
+{
+  "_id": {
+    "$oid": "6ac9d1749a519aff071fc12a"
+  },
+  "id": 107,
+  "name": "Tanushree",
+  "Location": "Delhi",
+  "contact": 7894561230
+}]
