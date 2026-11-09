@@ -1,29 +1,40 @@
-# 💻 Technical-Ycap
+📅 Day 1: SQL Fundamentals — MySQL
 
-**Technical-Ycap** is a learning and practice repository created to understand **SQL, NoSQL databases, and database management concepts** through hands-on training, practical questions, and project development.
+Day 1 focused on understanding SQL and relational database management using MySQL.
 
----
+🧠 Topics Covered
 
-## 📘 About the Repository
+Introduction to SQL and relational databases
 
-This repository was created as part of the **Technical-Ycap training program**, where we learned and practiced:
+Database and table creation
 
-- SQL fundamentals using MySQL
-- Practical SQL query solving
-- Database project development
-- NoSQL fundamentals using MongoDB
-- CRUD operations and aggregation functions
+Data insertion, retrieval, updating, and deletion
 
-The training focused on understanding database concepts from scratch and applying them through practical exercises and project implementation.
+SQL constraints and keys
 
----
+Filtering and sorting records
 
-## 🧑‍🏫 Trainer
+Aggregate functions
 
-**Instructor:** Dhananjay Patel 
+Grouping data using GROUP BY and HAVING
 
-**Role:** Technical Trainer – Technical-Ycap Program
+Joins and relationships between tables
 
-The trainer guided us through database fundamentals, query writing, practical problem-solving, and project development with a focus on hands-on learning.
+🚀 Learning Highlights
 
----
+Practiced basic to intermediate SQL queries.
+
+Learned to manage structured data using MySQL.
+
+Solved practical database questions.
+
+Understood table relationships and data retrieval techniques.
+
+🎯 Outcome
+
+Developed a strong foundation in SQL.
+
+Gained practical experience writing MySQL queries.
+
+Understood relational database concepts.
+
